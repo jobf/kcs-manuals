@@ -53,7 +53,20 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            '02-track-mode-recording-tutorial',
+            '03-open-mode-editing-tutorial',
+            '04-open-and-track-mode-editing.md',
+            '05-song-mode-editing.md',
+            '06-track-mode-play-record',
+            '07-open-mode-play-record',
+            '08-song-mode-play',
+            '09-step-time-recording',
+            '10-load-save',
+            '11-set-options',
+            '12-midi',
+            '13-tips-for-advanced-users',
+            '14-troubleshooting',
+            '15-application-notes',
           ]
         }
       ],
