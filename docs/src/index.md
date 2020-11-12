@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: makes the old kcs manual bearable to use
-actionText: Quick Start →
+# heroImage: https://v1.vuepress.vuejs.org/hero.png
+tagline: Modern interface for ancient documentation
+actionText: Version 1.6 Manual
 actionLink: /guide/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+- title: Hyperlinks
+  details: Jump to sections of the manual with a single gesture
+- title: Search
+  details: Search for terms
+- title: Offline
+  details: Store on your portable screen device
+footer: Made with a ⌨ and 🖱
 ---

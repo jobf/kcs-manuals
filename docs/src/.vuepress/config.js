@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'Dr T\'s Keyboard Controlled Sequencer',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,22 +34,14 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
+        text: 'KCS 1.6 Manual',
         link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
       }
     ],
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'KCS 1.6 Manual',
           collapsable: false,
           children: [
             '',
