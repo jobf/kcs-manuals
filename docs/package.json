@@ -1,0 +1,19 @@
+{
+  "name": "dr-t-kcs-manual",
+  "version": "0.0.1",
+  "description": "makes the old kcs manual bearable to use",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/dr-t-kcs-manual",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
