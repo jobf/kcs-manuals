@@ -10,7 +10,8 @@
   "repository": "/dr-t-kcs-manual",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "manifest": "pwa-asset-generator ./src/svg/omega.svg ./src/.vuepress/public/icons/ --manifest ./src/.vuepress/public/manifest.json"
   },
   "license": "MIT",
   "devDependencies": {
