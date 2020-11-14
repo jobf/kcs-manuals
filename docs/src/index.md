@@ -1,15 +1,15 @@
 ---
 home: true
 # heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Modern interface for ancient documentation
-actionText: Version 1.6 Manual
+tagline: Serious Manuals for the THINKING Musician
+actionText: To the manuals!
 actionLink: /guide/
 features:
-- title: Hyperlinks
-  details: Jump to sections of the manual with a single gesture
-- title: Search
-  details: Search for terms
-- title: Offline
-  details: Store on your portable screen device
-footer: Made with a ⌨ and 🖱
+- title: Hyperlinks 🔗
+  details: Click headings like it's 2005
+- title: Search 🔍
+  details: Find specific text at the speed of thought
+- title: Offline 🚽
+  details: Store on your device for comfortable reading
+footer: Made with a ⌨️ and 🖱️
 ---
