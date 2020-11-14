@@ -3,7 +3,7 @@
 
 What do you want to do with your music? No, I don't mean once it's finished. Dr. T can't help you get a record contract, or put together a performing group. I mean, what do you want to do with your music as you're in the process of creating it?
 
-The simplest way to use your Keyboard Controlled Sequencer is as a real-time MIDI recording and playback tool. Once you've recorded some tracks or sequences, though, you'll probably fmd yourself using the many editing features of the KCS to make alterations, small or large, in the data. That's the wonderful thing about MIDI sequencing: It turns music into an open-ended, plastic medium.
+The simplest way to use your Keyboard Controlled Sequencer is as a real-time MIDI recording and playback tool. Once you've recorded some tracks or sequences, though, you'll probably find yourself using the many editing features of the KCS to make alterations, small or large, in the data. That's the wonderful thing about MIDI sequencing: It turns music into an open-ended, plastic medium.
 
 In a powerful sequencer like the KCS, anything from fixing an isolated mistake to restructuring an entire piece can be handled with a few quick keystrokes. Even without the Programmable Variations Generator, the KCS contains just about all of the standard editing tools found in the current generation of MIDI sequencers, not to mention a handful of tools that aren't found on any other sequencer. And for many types of music, standard editing may be all you'll need. Yet the PVG goes much further.
 
