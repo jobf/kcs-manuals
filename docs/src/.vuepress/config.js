@@ -39,10 +39,7 @@ module.exports = {
     editLinkText: '',
     lastUpdated: false,
     nav: [
-      {
-        text: 'KCS 1.6 Manual',
-        link: '/guide/',
-      }
+
     ],
     sidebar: {
       '/guide/': [
