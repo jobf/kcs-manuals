@@ -6,6 +6,10 @@ The original texts are in the process of being edited for easier consumption.
 
 Various other pieces of documentation for KCS will end up here too.
 
+## Published Version 
+
+Read the content of this repo as generated web pages here - https://kcs-manuals.netlify.app/
+
 ## Notes on KCS Versions
 
 The 'defintive' shareware version was available as a download from Tim's Atari Midi World which is no longer online.
